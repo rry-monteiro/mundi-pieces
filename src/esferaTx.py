@@ -1,4 +1,4 @@
-from ursina import Entity, application, curve, Vec3
+from ursina import Entity, application, curve, Vec3, Func
 from pathlib import Path
 from panda3d.core import Filename
 
